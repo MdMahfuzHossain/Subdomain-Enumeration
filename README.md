@@ -16,7 +16,7 @@
   
 # 🦸OSINT - Sublist3r
   First Install Sublist3r from google then used it. 
-  Example: python3 sublist3r.py -d tryhackme.com
+      Example: python3 sublist3r.py -d tryhackme.com
   
 # 👻Virtual Hosts 
   Example1: ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u http://10.10.127.142
