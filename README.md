@@ -15,7 +15,7 @@
   Example: dnsrecon -t brt -d acmeitsupport.thm
   
 # 🦸OSINT - Sublist3r
-  First Install Sublist3r from google then used it.
+  First Install Sublist3r from google then used it. 
   Example: python3 sublist3r.py -d tryhackme.com
   
 # 👻Virtual Hosts 
